@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;magicWeb_250319/src/main/webapp/board/FileDownload.jsp&apos; to &apos;fileDownload.jsp&apos;" description="Rename resource &apos;FileDownload.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/board/FileDownload.jsp" name="fileDownload.jsp" stamp="1742801083111" updateReferences="true"/>
+</session>

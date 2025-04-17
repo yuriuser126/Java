@@ -1,0 +1,8 @@
+127.0.0.1 - - [26/Mar/2025:15:24:31 +0900] "GET / HTTP/1.1" 404 808
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:24:31 +0900] "GET /magicWeb_250319/mapmap/index.html HTTP/1.1" 200 320
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:24:31 +0900] "GET /magicWeb_250319/mapmap/index.js HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:24:48 +0900] "GET /magicWeb_250319/mapmap/index.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:39:33 +0900] "GET /magicWeb_250319/mapmap/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:39:33 +0900] "GET /magicWeb_250319/mapmap/index.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:39:36 +0900] "GET /magicWeb_250319/mapmap/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2025:15:39:36 +0900] "GET /magicWeb_250319/mapmap/index.js HTTP/1.1" 304 -

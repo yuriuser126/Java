@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Google Maps</title>
+    <script defer src="./index.js"></script>
+    <!--Google Maps API 사용위해 로컬에서 작성할 코드 불러오기위함  -->
+
+    <script
+      defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBNYdarKDFX1UxB-AjoA_9Suc1RVzqY6BY&callback=initMap"
+    ></script>
+    <!-- 원격에있는 구글서버로부터  Google Maps API 코드를 내려받기위함-->
+  </head>
+  <body>
+    <div id="map" style="height: 600px"></div>
+    <!--div는 높이의 기본값이 0으로 되어있어 화면상 나타나지 않음
+    	css style로 높이설정을 해주어야합니다.  -->
+  </body>
+</html>
+
+      <!-- defer 속성 : html요소를 화면에 그려주면서 백그라운드에 다운- 순차적 
+      브라우저에서 파일을 내려받는시간 최소화-->
